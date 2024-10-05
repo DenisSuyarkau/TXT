@@ -1,0 +1,5 @@
+Name: Suyarkau Dzianis Valentinovich
+Age: 38
+Count_pets: 0
+Salary: 2500$
+
